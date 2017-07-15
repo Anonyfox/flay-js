@@ -11,10 +11,20 @@ class HeadTest {
   public worksWithDefaultHTML() {
     const input = `<html>
       <head>
+        <title>Meta Title</title>
+
+        <meta name="description" content="Meta Description">
+        <meta name="author" content="Meta Author">
+        <meta name="keywords" content="Hello, World">
+
+        <link type="application/atom+xml" href="http://examplefeed.com">
+        <link rel="shortcut icon" href="favicon.ico">
+
         <meta property="og:title" content="OGP Title">
         <meta property="og:description" content="OGP Description">
         <meta property="og:image" content="OGP Image">
         <meta property="og:site_name" content="OGP Site">
+
         <meta name="twitter:title" content="Twitter Title">
         <meta name="twitter:description" content="Twitter Description">
         <meta name="twitter:image" content="Twitter Image">
