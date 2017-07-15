@@ -17,7 +17,7 @@ class BodyTest {
     expect(body.title).to.be.equal(title)
     expect(body.html).be.a('string')
     expect(body.text).be.a('string')
-    expect(body.summary).be.a('string')
+    expect(body.description).be.a('string')
     expect(body.keywords).to.include.members(keywords)
   }
 }

@@ -11,7 +11,7 @@ export interface IBodyData {
   html?: string
   title?: string
   text?: string
-  summary?: string
+  description?: string
   keywords?: string[]
 }
 
@@ -45,13 +45,13 @@ export class Body {
       text: this.data.text,
       title: this.data.title,
     }).summarize()
-    const relevantSentences = filter(sentences, (s) => s.length > 20)
-    this.data.summary = relevantSentences.join('\n')
+    const relevantSentences = filter(sentences, s => s.length > 20)
+    this.data.description = relevantSentences.join('\n')
   }
 
   private calculateKeywords() {
-    const { title, summary, text } = this.data
-    const corpus = `${title}. ${summary} ${text}`
+    const { title, description, text } = this.data
+    const corpus = `${title}. ${description} ${text}`
     this.data.keywords = rake(corpus)
   }
 }
