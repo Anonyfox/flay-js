@@ -3,10 +3,10 @@ import * as cheerio from 'cheerio'
 import { readFileSync } from 'fs'
 import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import { join } from 'path'
-import { Social } from '../../../lib/dom/social'
+import { Head } from '../../../lib/dom/head'
 
 @suite(timeout(1000), slow(100))
-class OpengraphTest {
+class HeadTest {
   @test
   public worksWithDefaultHTML() {
     const input = `<html>
@@ -22,11 +22,11 @@ class OpengraphTest {
       </head>
       <body></body>
     </html>`
-    const social = new Social(cheerio.load(input)).toJSON()
-    expect(social.title).to.be.equal('OGP Title')
-    expect(social.description).to.be.equal('OGP Description')
-    expect(social.image).to.be.equal('OGP Image')
-    expect(social.site).to.be.equal('OGP Site')
-    expect(social.author).to.be.equal('Twitter Author')
+    const head = new Head(cheerio.load(input)).toJSON()
+    expect(head.title).to.be.equal('OGP Title')
+    expect(head.description).to.be.equal('OGP Description')
+    expect(head.image).to.be.equal('OGP Image')
+    expect(head.site).to.be.equal('OGP Site')
+    expect(head.author).to.be.equal('Twitter Author')
   }
 }

@@ -12,7 +12,6 @@ const rake_js_1 = require("rake-js");
 function website(html) {
     return __awaiter(this, void 0, void 0, function* () {
         const keywords = rake_js_1.default('this is a hello world sample text. hello.');
-        console.log('keywords: ', keywords);
         return 'test';
     });
 }

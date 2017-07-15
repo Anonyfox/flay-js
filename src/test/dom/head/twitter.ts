@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio'
 import { readFileSync } from 'fs'
 import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import { join } from 'path'
-import { Twitter } from '../../../lib/dom/social/twitter'
+import { Twitter } from '../../../lib/dom/head/twitter'
 
 @suite(timeout(1000), slow(100))
 class TwitterTest {

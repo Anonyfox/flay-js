@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio'
 import { readFileSync } from 'fs'
 import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import { join } from 'path'
-import { Opengraph } from '../../../lib/dom/social/opengraph'
+import { Opengraph } from '../../../lib/dom/head/opengraph'
 
 @suite(timeout(1000), slow(100))
 class OpengraphTest {

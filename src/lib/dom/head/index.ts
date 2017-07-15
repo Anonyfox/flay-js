@@ -2,10 +2,10 @@ import { merge } from 'lodash'
 import { IOpengraphData, Opengraph } from './opengraph'
 import { ITwitterData, Twitter } from './twitter'
 
-export interface ISocialData extends IOpengraphData, ITwitterData {}
+export interface IHeadData extends IOpengraphData, ITwitterData {}
 
-export class Social {
-  private data: ISocialData = {}
+export class Head {
+  private data: IHeadData = {}
 
   constructor(private $: CheerioStatic) {
     const og = new Opengraph($)
@@ -13,7 +13,7 @@ export class Social {
     this.data = merge({}, tw.toJSON(), og.toJSON())
   }
 
-  public toJSON(): ISocialData {
+  public toJSON(): IHeadData {
     return this.data
   }
 }
