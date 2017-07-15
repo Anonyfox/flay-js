@@ -21,7 +21,7 @@ export class Body {
   constructor(private originalHtml: string) {
     this.calculateDefaultPage()
     this.calculatePlainText()
-    this.calculateSummary()
+    this.calculateSummary() // TODO: this is quite slow
     this.calculateKeywords()
   }
 
@@ -45,7 +45,7 @@ export class Body {
       text: this.data.text,
       title: this.data.title,
     }).summarize()
-    const relevantSentences = filter(sentences, (s: string) => s.length > 20)
+    const relevantSentences = filter(sentences, (s) => s.length > 20)
     this.data.summary = relevantSentences.join('\n')
   }
 
