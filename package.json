@@ -35,7 +35,13 @@
     "@types/cheerio": "^0.22.2",
     "@types/lodash": "^4.14.69",
     "cheerio": "^1.0.0-rc.2",
+    "condense-whitespace": "^1.0.0",
+    "html-entities": "^1.2.1",
     "lodash": "^4.17.4",
-    "rake-js": "^0.1.1"
+    "rake-js": "^0.1.1",
+    "readabilitySAX": "^1.6.1",
+    "striptags": "^3.0.1",
+    "teaser": "^0.1.1",
+    "unescape": "^1.0.1"
   }
 }
