@@ -18,7 +18,7 @@ class DomTest {
     expect(result.title).to.be.equal(title)
 
     const description =
-      'In the past few years, artificial intelligence has come into its own, and lots of companies are grafting it onto their core businesses, marrying AI with search, ecommerce, social networking, cybersecurity -- you name it. But what if those businesses had started out in an age of AI and had integrated it into their products from the very beginning?\n'
+      'In the past few years, artificial intelligence has come into its own, and lots of companies are grafting it onto their core businesses, marrying AI with search, ecommerce, social networking, cybersecurity -- you name it. But what if those businesses had started out in an age of AI and had integrated it into their products from the very beginning?'
     expect(result.description).to.be.equal(description)
 
     const feedUrl = 'http://feeds.feedburner.com/venturebeat/SZYF'

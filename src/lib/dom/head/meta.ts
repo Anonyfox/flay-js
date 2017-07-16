@@ -1,5 +1,6 @@
 import * as cheerio from 'cheerio'
 import { map, trim } from 'lodash'
+import { sanitize } from '../../text'
 
 export interface IMetaData {
   title?: string
@@ -14,8 +15,8 @@ export class Meta {
   private data: IMetaData = {}
 
   constructor(private $: CheerioStatic) {
-    this.data.title = this.$('title').first().text()
-    this.data.description = this.find("meta[name='description']")
+    this.data.title = sanitize(this.$('title').first().text())
+    this.data.description = sanitize(this.find("meta[name='description']"))
     this.data.author = this.find("meta[name='author']")
     this.findFaviconUrl()
     this.findFeedUrl()
@@ -45,7 +46,7 @@ export class Meta {
     if (!str) {
       return
     }
-    this.data.keywords = map(str.split(/[,;]/), w => trim(w))
+    this.data.keywords = map(str.split(/[,;]/), w => sanitize(w))
   }
 
   private find(selector: string): string {
