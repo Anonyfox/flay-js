@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Sun, 16 Jul 2017 19:01:08 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='techcrunch.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=96&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>TechCrunch</title>
+		<link>https://techcrunch.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://techcrunch.com/osd.xml" title="TechCrunch" />
+	<atom:link rel='hub' href='https://techcrunch.com/?pushpress=hub'/>
+	<item>
+		<title>Startup Battlefield applications for Disrupt SF close in 24 hours</title>
+		<link>https://techcrunch.com/2017/07/16/startup-battlefield-applications-for-disrupt-sf-close-in-24-hours/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/startup-battlefield-applications-for-disrupt-sf-close-in-24-hours/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 19:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Samantha Stein]]></dc:creator>
+				<category><![CDATA[Disrupt SF 2017]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startup Battlefield]]></category>
+		<category><![CDATA[disrupt sf]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1512367</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;We&#8217;re T-minus 24 hours until applications close for Startup Battlefield, Disrupt SF 2017. If you don&#8217;t submit your application by Monday, July 17 at 12 pm PT, well then, Houston, we have a problem. Don&#8217;t miss your shot to launch your early-stage startup in the heart of Silicon Valley. Between 15-30 startups will be chosen to vie for the top prize: a $50,000 check and the&hellip; <a href="https://techcrunch.com/2017/07/16/startup-battlefield-applications-for-disrupt-sf-close-in-24-hours/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/startup-battlefield-applications-for-disrupt-sf-close-in-24-hours/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg" type="image/jpeg" medium="image"><media:title type="html">Startup%20Battlefield%20applications%20for%20Disrupt%20SF%20close%20in%2024%26nbsp%3Bhours</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-500445094.jpg" medium="image">
+			<media:title type="html">TechCrunch Disrupt London 2015 - Day 2</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/dac13f3f1335acffbb36ea4beef1a7d1?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">samantharosestein</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Lenovo teases augmented reality headset for new &#8216;Star Wars&#8217; experience</title>
+		<link>https://techcrunch.com/2017/07/16/lenovo-teases-augmented-reality-headset-for-new-star-wars-experience/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/lenovo-teases-augmented-reality-headset-for-new-star-wars-experience/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 18:06:06 +0000</pubDate>
+		<dc:creator><![CDATA[Lucas Matney]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515199</guid>
+		<description><![CDATA[<img width="680" height="434" src="https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;As part of Disney&#8217;s gaming-focused D23 extravaganza happening this weekend, Lenovo showed off a smartphone-based augmented reality headset they&#8217;re using to promote an upcoming Star Wars experience called &#8220;Jedi Challenges.&#8221; The AR demo appears to be something that will be showed off publicly at Best Buy stores in the near future but it isn&#8217;t entirely clear whether&hellip; <a href="https://techcrunch.com/2017/07/16/lenovo-teases-augmented-reality-headset-for-new-star-wars-experience/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/lenovo-teases-augmented-reality-headset-for-new-star-wars-experience/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png" type="image/png" medium="image"><media:title type="html">Lenovo%20teases%20augmented%20reality%20headset%20for%20new%20%26%238216%3BStar%20Wars%26%238217%3B%26nbsp%3Bexperience</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-10-54-01-am.png" medium="image">
+			<media:title type="html">Screen Shot 2017-07-16 at 10.54.01 AM</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/ac0471089769c31246f411dc339104f8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">lucasmatney2015</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Dear United: Autonomous cars will pull you out of your seat</title>
+		<link>https://techcrunch.com/2017/07/16/dear-united-autonomous-cars-will-pull-you-out-of-your-seat/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/dear-united-autonomous-cars-will-pull-you-out-of-your-seat/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 17:30:32 +0000</pubDate>
+		<dc:creator><![CDATA[Cyrus Radfar]]></dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515144</guid>
+		<description><![CDATA[<img width="680" height="586" src="https://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png 720w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Today, for most of us, air travel consists of series of unfortunate lines, embarrassing checks, and obscure ticketing rules that leave us in a confined space where we&#8217;re uncomfortably attempting to open tiny packages without disturbing our neighbors.
+The fact is, the market is begging for another option and they&#8217;re racing around the corner. <a href="https://techcrunch.com/2017/07/16/dear-united-autonomous-cars-will-pull-you-out-of-your-seat/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/dear-united-autonomous-cars-will-pull-you-out-of-your-seat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png" type="image/png" medium="image"><media:title type="html">Dear%20United%3A%20Autonomous%20cars%20will%20pull%20you%20out%20of%20your%26nbsp%3Bseat</media:title></media:content><twitter> <![CDATA[ cyrusradfar ]]> </twitter>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/pasted-image-0-17.png" medium="image">
+			<media:title type="html">pasted image 0 (17)</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/cabin-passengers-10.jpg" medium="image">
+			<media:title type="html">Cabin sleeping bus</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/09/img_7909.jpg" medium="image">
+			<media:title type="html">The Tesloop Model S</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/12/uber-self-driving-taxi.png" medium="image" />
+	</item>
+		<item>
+		<title>New models for quality journalism from Wikitribune to crypto tokens</title>
+		<link>https://techcrunch.com/2017/07/16/new-models-for-quality-journalism-from-wikitribune-to-crypto-tokens/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/new-models-for-quality-journalism-from-wikitribune-to-crypto-tokens/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 16:30:53 +0000</pubDate>
+		<dc:creator><![CDATA[Christian Catalini]]></dc:creator>
+				<category><![CDATA[Column]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1513305</guid>
+		<description><![CDATA[<img width="680" height="435" src="https://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;The business of journalism is, simply put, experiencing an historic decline in paid advertising and circulation, leading to deep newsroom cutbacks that have harmed quality journalism at a time when quality journalism is needed most. Something needs to be done. <a href="https://techcrunch.com/2017/07/16/new-models-for-quality-journalism-from-wikitribune-to-crypto-tokens/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/new-models-for-quality-journalism-from-wikitribune-to-crypto-tokens/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg" type="image/jpeg" medium="image"><media:title type="html">New%20models%20for%20quality%20journalism%20from%20Wikitribune%20to%20crypto%26nbsp%3Btokens</media:title></media:content><twitter> <![CDATA[ ccatalini ]]> </twitter>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/03/newsboy.jpg" medium="image">
+			<media:title type="html">Newsboy holding newspaper and shouting to sell</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/05/3236806056_7c6b607022_o.jpg" medium="image" />
+	</item>
+		<item>
+		<title>A year with the PAX Labs Juul vaporizer</title>
+		<link>https://techcrunch.com/2017/07/16/a-year-with-the-pax-labs-juul-vaporizer/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/a-year-with-the-pax-labs-juul-vaporizer/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 16:05:58 +0000</pubDate>
+		<dc:creator><![CDATA[Jordan Crook]]></dc:creator>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Pax Labs]]></category>
+		<category><![CDATA[juul]]></category>
+		<category><![CDATA[ecig]]></category>
+		<category><![CDATA[vaporizer]]></category>
+		<category><![CDATA[fda]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1514803</guid>
+		<description><![CDATA[<img width="680" height="510" src="https://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Nicotine vaporizer companies have a bit of a conundrum. While, legally, they can&#8217;t market themselves as smoking cessation devices, most vapers are current or former cigarette smokers. In fact, the CDC says that fewer than 4 percent people who had never tried traditional cigarettes have ever tried using a vaporizer. I&#8217;m a smoker. It&#8217;s disgusting. I hate it. I&#8217;ve quit&hellip; <a href="https://techcrunch.com/2017/07/16/a-year-with-the-pax-labs-juul-vaporizer/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/a-year-with-the-pax-labs-juul-vaporizer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg" type="image/jpeg" medium="image"><media:title type="html">A%20year%20with%20the%20PAX%20Labs%20Juul%26nbsp%3Bvaporizer</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/img_3439.jpg" medium="image">
+			<media:title type="html">IMG_3439</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/123a4c264172746af556b0c74c72b308?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jordanrcrook</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/fullsizerender-1.jpg?w=150" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/fullsizerender-21.jpg?w=150" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/fullsizerender-3.jpg?w=150" medium="image" />
+	</item>
+		<item>
+		<title>It&#8217;s 2017, and women still aren&#8217;t being funded equally</title>
+		<link>https://techcrunch.com/2017/07/16/its-2017-and-women-still-arent-being-funded-equally/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/its-2017-and-women-still-arent-being-funded-equally/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 14:30:22 +0000</pubDate>
+		<dc:creator><![CDATA[Gené Teare]]></dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[women in tech]]></category>
+		<category><![CDATA[female founders]]></category>
+		<category><![CDATA[Include]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1514992</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Broadly, the venture capital industry is thriving. But still, too often, women seeking funding are left out of the boom because of hidden biases, sexism and a general unawareness. Because of this &#8212; and recent reports of incredibly low-brow behavior among high-profile investors &#8212; it is more important than ever to understand where women founders stand when fundraising. <a href="https://techcrunch.com/2017/07/16/its-2017-and-women-still-arent-being-funded-equally/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/its-2017-and-women-still-arent-being-funded-equally/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png" type="image/png" medium="image"><media:title type="html">It%E2%80%99s%202017%2C%20and%20women%20still%20aren%E2%80%99t%20being%20funded%26nbsp%3Bequally</media:title></media:content><twitter> <![CDATA[ geneteare ]]> </twitter>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/female-founders_tc.png" medium="image">
+			<media:title type="html">Female-Founders_tc</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/a3a71bf0d3d22efa0db4b77936a066b8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">alexjameswilhelm</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/one1.png?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/two1.png?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/three2.png?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/four2.png?w=680" medium="image" />
+	</item>
+		<item>
+		<title>Roborace DevBot learns during laps in NYC</title>
+		<link>https://techcrunch.com/2017/07/16/roborace-devbot-learns-during-laps-in-nyc/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/roborace-devbot-learns-during-laps-in-nyc/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 13:46:36 +0000</pubDate>
+		<dc:creator><![CDATA[Kristen Hall-Geisler]]></dc:creator>
+				<category><![CDATA[Automotive]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[roborace]]></category>
+		<category><![CDATA[formula e]]></category>
+		<category><![CDATA[autonomous cars]]></category>
+		<category><![CDATA[driverless]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515183</guid>
+		<description><![CDATA[<img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg?w=680" class="attachment-large size-large wp-post-image" alt="Roborace in NYC" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;The sleek, low-slung driverless Roborace car was on display in New York City for the Formula E races this weekend, but it was the workhorse DevBot that took to the track. You can recognize DevBot by its bubble-like cockpit, where a human sits ready to take the wheel if the autonomous car needs a literal hand. Given Formula E&#8216;s one-day structure, with qualifying sessions early in the day&hellip; <a href="https://techcrunch.com/2017/07/16/roborace-devbot-learns-during-laps-in-nyc/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/roborace-devbot-learns-during-laps-in-nyc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg" type="image/jpeg" medium="image"><media:title type="html">Roborace%20DevBot%20learns%20during%20laps%20in%26nbsp%3BNYC</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/roborace-robocar-times-square-nyc.jpg" medium="image">
+			<media:title type="html">Roborace - Robocar Times Square NYC</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6f03bde7681a5b225538e6a6807ee96e?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">hallgeisler</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Does Silicon Valley have a moral responsibility to stop developing robots?</title>
+		<link>https://techcrunch.com/2017/07/16/does-silicon-valley-have-a-moral-responsibility-to-stop-developing-robots/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/does-silicon-valley-have-a-moral-responsibility-to-stop-developing-robots/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 13:30:46 +0000</pubDate>
+		<dc:creator><![CDATA[Andrew Keen]]></dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[gavin newsom]]></category>
+		<category><![CDATA[jerry brown]]></category>
+		<category><![CDATA[Silicon Valley]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[MIT]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[employment]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1514756</guid>
+		<description><![CDATA[Should Silicon Valley exercise its moral authority to stop developing this job-killing technology? Andrew McAfee, author of &#8220;The Second Machine Age&#8221; and the just published &#8220;Machine, Platform, Crowd&#8221; says absolutely not. Over the next fifty years the economy will become &#8220;massively automated&#8221;, but at the same time society will have had half a century to&hellip; <a href="https://techcrunch.com/2017/07/16/does-silicon-valley-have-a-moral-responsibility-to-stop-developing-robots/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/does-silicon-valley-have-a-moral-responsibility-to-stop-developing-robots/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://img.vidible.tv/prod/2017-07/12/59665af31de5a12daf934950/59665c635ab5351ba54d5d7c_o_U_v1.png?w=1279&#038;h=727" type="image/jpeg" medium="image"><media:title type="html">Does%20Silicon%20Valley%20have%20a%20moral%20responsibility%20to%20stop%20developing%26nbsp%3Brobots%3F</media:title></media:content><twitter> <![CDATA[ ajkeen ]]> </twitter>
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Death to C, ++</title>
+		<link>https://techcrunch.com/2017/07/16/death-to-c/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/16/death-to-c/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 13:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Jon Evans]]></dc:creator>
+				<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1514603</guid>
+		<description><![CDATA[<img width="680" height="510" src="https://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg 1024w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;The C programming language is terrible. I mean, magnificent, too. Much of the world in which we live was built atop C. It is foundational to almost all computer programming, both historically and practically; there&#8217;s a reason that the curriculum for Xavier Niel&#8217;s revolutionary &#8220;42&#8221; schools begins with students learning how to rewrite standard C library functions from&#8230; <a href="https://techcrunch.com/2017/07/16/death-to-c/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/16/death-to-c/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg" type="image/jpeg" medium="image"><media:title type="html">Death%20to%20C%2C%26nbsp%3B%2B%2B</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/04/death_to_smoochy.jpg" medium="image">
+			<media:title type="html">death_to_smoochy</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/df4f08903b7a5c3d7078165edcf5bcf7?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">rezendi</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>VCs in the land of the redwoods need to stand taller and address gender inequality</title>
+		<link>https://techcrunch.com/2017/07/15/vcs-in-the-land-of-the-redwoods-need-to-stand-taller-and-address-gender-inequality/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/vcs-in-the-land-of-the-redwoods-need-to-stand-taller-and-address-gender-inequality/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 01:30:15 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shieber]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515147</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;to truly address this problem, we have to acknowledge the larger issue of gender bias within our culture, which unfortunately is often conscious, deliberate, and systematic. It sickens me and it needs to end. And ending it also needs a conscious, deliberate, and systematic effort. <a href="https://techcrunch.com/2017/07/15/vcs-in-the-land-of-the-redwoods-need-to-stand-taller-and-address-gender-inequality/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/vcs-in-the-land-of-the-redwoods-need-to-stand-taller-and-address-gender-inequality/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png" type="image/png" medium="image"><media:title type="html">VCs%20in%20the%20land%20of%20the%20redwoods%20need%20to%20stand%20taller%20and%20address%20gender%26nbsp%3Binequality</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-164544702.png" medium="image">
+			<media:title type="html">GettyImages-164544702</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/04/trumpprotest.jpg" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/gettyimages-639660328.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Lionel Richie says &#8220;Hello&#8221; to startup investing</title>
+		<link>https://techcrunch.com/2017/07/15/lionel-richie-says-hello-to-startup-investing/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/lionel-richie-says-hello-to-startup-investing/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 00:50:51 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shieber]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515155</guid>
+		<description><![CDATA[<img width="680" height="510" src="https://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;It&#8217;s been a while that he&#8217;s had the idea of startup investing inside his mind&#8230; And in Lionel Richie&#8217;s dreams he&#8217;s thought of pulling the trigger on a deal at least a thousand times. Richie told me he&#8217;s seen several startups pass outside his door, but it wasn&#8217;t until the healthcare startup Heal that he&#8217;d found what he was looking for. <a href="https://techcrunch.com/2017/07/15/lionel-richie-says-hello-to-startup-investing/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/lionel-richie-says-hello-to-startup-investing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg" type="image/jpeg" medium="image"><media:title type="html">Lionel%20Richie%20says%20%26%238220%3BHello%26%238221%3B%20to%20startup%26nbsp%3Binvesting</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/6994685799_16ba502942_k.jpg" medium="image">
+			<media:title type="html">6994685799_16ba502942_k</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/image_heal_lionel-with-founders_20151.jpg" medium="image" />
+	</item>
+		<item>
+		<title>A farm shouldn&#8217;t be a factory</title>
+		<link>https://techcrunch.com/2017/07/15/a-farm-shouldnt-be-a-factory/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/a-farm-shouldnt-be-a-factory/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 00:30:37 +0000</pubDate>
+		<dc:creator><![CDATA[Gunnar Lovelace]]></dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[thrive market]]></category>
+		<category><![CDATA[farming]]></category>
+		<category><![CDATA[farmers business network]]></category>
+		<category><![CDATA[farmlogs]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515152</guid>
+		<description><![CDATA[<img width="680" height="454" src="https://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg 1000w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;A shift to technologically driven organic farming practices could save our topsoils, lessen our dependence on synthetics and even capture 100% of today&#8217;s CO2 emissions. <a href="https://techcrunch.com/2017/07/15/a-farm-shouldnt-be-a-factory/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/a-farm-shouldnt-be-a-factory/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg" type="image/jpeg" medium="image"><media:title type="html">A%20farm%20shouldn%26%238217%3Bt%20be%20a%26nbsp%3Bfactory</media:title></media:content><twitter> <![CDATA[ gunnarlovelace ]]> </twitter>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/10/shutterstock_37098211.jpg" medium="image">
+			<media:title type="html">Filling a high clearance sprayer with chemical and water with proper safety equipment</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/08/farmer2.jpg" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/08/fbn-map-1.png" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2016/07/arable_pulsepod.jpg" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2015/07/iowa-farm-land.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Disney is opening an immersive Star Wars Hotel where each guest gets a storyline</title>
+		<link>https://techcrunch.com/2017/07/15/disney-is-opening-an-immersive-star-wars-hotel-where-each-guest-gets-a-storyline/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/disney-is-opening-an-immersive-star-wars-hotel-where-each-guest-gets-a-storyline/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 00:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[Greg Kumparak]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[star wars]]></category>
+		<category><![CDATA[Disney]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515157</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;AHHHHHHH. Disney just announced something that&#8217;s potentially so damned cool that I hardly need complete sentences here: Immersive. Star Wars. Hotel. Details are still super light, but Disney just dropped this bombshell in the middle of its D23 expo down in Los Angeles. Here&#8217;s what we know so far: All of the employees (or &#8216;cast members&#8217;, in Disney Park lingo) will be&hellip; <a href="https://techcrunch.com/2017/07/15/disney-is-opening-an-immersive-star-wars-hotel-where-each-guest-gets-a-storyline/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/disney-is-opening-an-immersive-star-wars-hotel-where-each-guest-gets-a-storyline/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg?w=210&#038;h=158&#038;crop=1" />
+
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg" medium="image" />
+
+		<media:content url="http://0.gravatar.com/avatar/9b107c9f9a43a21d8c93fcdefcc97dcd?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">gregkumparak</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/ahh2.jpg?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/ahh3.jpg?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/ahhhhh1.jpg?w=680" medium="image" />
+	</item>
+		<item>
+		<title>VCs determined to replace your job keep AI&#8217;s funding surge rolling in Q2</title>
+		<link>https://techcrunch.com/2017/07/15/vcs-determined-to-replace-your-job-keep-ais-funding-surge-rolling-in-q2/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/vcs-determined-to-replace-your-job-keep-ais-funding-surge-rolling-in-q2/#respond</comments>
+		<pubDate>Sat, 15 Jul 2017 19:00:35 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna Glasner]]></dc:creator>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Column]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Airbnb]]></category>
+		<category><![CDATA[MindMeld]]></category>
+		<category><![CDATA[Lattice]]></category>
+		<category><![CDATA[trooly]]></category>
+		<category><![CDATA[realFace]]></category>
+		<category><![CDATA[Argo AI]]></category>
+		<category><![CDATA[SenseTime]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Toyota]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1514735</guid>
+		<description><![CDATA[<img width="680" height="457" src="https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png 727w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;These are good times for AI entrepreneurs. Venture, corporate and seed investors have put an estimated $3.6 billion into AI and machine learning companies this year, according to Crunchbase data. That&#8217;s more than they invested in all of 2016, marking the largest recorded sum ever put into the space in a comparable period. <a href="https://techcrunch.com/2017/07/15/vcs-determined-to-replace-your-job-keep-ais-funding-surge-rolling-in-q2/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/vcs-determined-to-replace-your-job-keep-ais-funding-surge-rolling-in-q2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png" type="image/png" medium="image"><media:title type="html">VCs%20determined%20to%20replace%20your%20job%20keep%20AI%E2%80%99s%20funding%20surge%20rolling%20in%26nbsp%3BQ2</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-13-at-5-43-57-pm.png" medium="image">
+			<media:title type="html">Screen Shot 2017-07-13 at 5.43.57 PM</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/b8047bac32f8594bd3f52c24bfa8bf9e?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jglasner</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/chart.png?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/ble.png?w=680" medium="image" />
+	</item>
+		<item>
+		<title>The decentralization of startup building</title>
+		<link>https://techcrunch.com/2017/07/15/the-decentralization-of-startup-building/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/the-decentralization-of-startup-building/#respond</comments>
+		<pubDate>Sat, 15 Jul 2017 18:30:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sam Cash]]></dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[Private Equity]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Startup company]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1513416</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Breakthroughs in technology, changes to regulation and socio-economic tailwinds are allowing talent and capital to be more widely distributed and at the same time closely connected. We&#8217;re witnessing the democratisation of a number of components of the startup ecosystem. <a href="https://techcrunch.com/2017/07/15/the-decentralization-of-startup-building/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/the-decentralization-of-startup-building/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png" type="image/png" medium="image"><media:title type="html">The%20decentralization%20of%20startup%26nbsp%3Bbuilding</media:title></media:content><twitter> <![CDATA[ sam__cash ]]> </twitter>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/06/yc-startup-school.png" medium="image">
+			<media:title type="html">yc startup school</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">shieberj</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/1-_6ivwg0knkgy_qdaqwwsag.jpeg" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/1-kogemfxz8oboxblf7xdlpw.png" medium="image" />
+	</item>
+		<item>
+		<title>Health insurance startup Alan adds life insurance</title>
+		<link>https://techcrunch.com/2017/07/15/health-insurance-startup-alan-adds-life-insurance/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/health-insurance-startup-alan-adds-life-insurance/#respond</comments>
+		<pubDate>Sat, 15 Jul 2017 16:31:37 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Alan]]></category>
+		<category><![CDATA[France Newsletter]]></category>
+		<category><![CDATA[insurance]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515126</guid>
+		<description><![CDATA[<img width="680" height="604" src="https://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;French startup Alan launched a brand new full-stack health insurance last year. This week, the company is launching corporate-owned life insurance so that it can become a one-stop shop for all your corporate insurance needs. When Alan launched its health insurance product, it was the first new one in France in decades. The life insurance market has remained stagnant for years as well. This&hellip; <a href="https://techcrunch.com/2017/07/15/health-insurance-startup-alan-adds-life-insurance/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/health-insurance-startup-alan-adds-life-insurance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg" type="image/jpeg" medium="image"><media:title type="html">Health%20insurance%20startup%20Alan%20adds%20life%26nbsp%3Binsurance</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/cardphone.jpg" medium="image">
+			<media:title type="html">Card+phone</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>SoundCloud says it&#8217;s going to survive, but how?</title>
+		<link>https://techcrunch.com/2017/07/15/soundcloud-says-its-not-going-anywhere/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/soundcloud-says-its-not-going-anywhere/#respond</comments>
+		<pubDate>Sat, 15 Jul 2017 15:49:44 +0000</pubDate>
+		<dc:creator><![CDATA[Megan Rose Dickey]]></dc:creator>
+				<category><![CDATA[Media]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[soundcloud]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1514720</guid>
+		<description><![CDATA[<img width="680" height="428" src="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg 1024w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;SoundCloud says it&#8217;s not going away. I&#8217;m glad to hear that because I can&#8217;t lose SoundCloud. Ever. Last week, SoundCloud announced layoffs of 173 employees (about half of its staff), as well as the closing of its offices in San Francisco and London. TechCrunch&#8217;s Josh Constine later found out that those layoffs and other cost-cutting measures only gave SoundCloud&hellip; <a href="https://techcrunch.com/2017/07/15/soundcloud-says-its-not-going-anywhere/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/soundcloud-says-its-not-going-anywhere/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg" type="image/jpeg" medium="image"><media:title type="html">SoundCloud%20says%20it%26%238217%3Bs%20going%20to%20survive%2C%20but%26nbsp%3Bhow%3F</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/gettyimages-634988228.jpg" medium="image">
+			<media:title type="html">US-GRAMMY-SHOW-ARRIVALS-MUSIC</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e64a35398ab7fb3ff0de4f0817dc1c78?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">mdickey</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Snapchat&#8217;s Foursquare and Factual partnerships double geofilter usage</title>
+		<link>https://techcrunch.com/2017/07/15/snapchat-foursquare/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/snapchat-foursquare/#respond</comments>
+		<pubDate>Sat, 15 Jul 2017 14:59:23 +0000</pubDate>
+		<dc:creator><![CDATA[Josh Constine]]></dc:creator>
+				<category><![CDATA[Advertising Tech]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Snap Map]]></category>
+		<category><![CDATA[snapchat geofilters]]></category>
+		<category><![CDATA[Geofilters]]></category>
+		<category><![CDATA[snap inc]]></category>
+		<category><![CDATA[Snapchat]]></category>
+		<category><![CDATA[Foursquare]]></category>
+		<category><![CDATA[Factual]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515094</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Borrowed location databases are paying off big time for Snapchat. They allow users to turn any nearby landmark or business into a stylized geofilter that they can overlay on their photos and videos. Before Snapchat partnered with location data providers Foursquare and Factual, only a few popular neighborhoods, cities, and places had their own geofilters. It also recently added a user&hellip; <a href="https://techcrunch.com/2017/07/15/snapchat-foursquare/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/snapchat-foursquare/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg" type="image/jpeg" medium="image"><media:title type="html">Snapchat%26%238217%3Bs%20Foursquare%20and%20Factual%20partnerships%20double%20geofilter%26nbsp%3Busage</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/snap-growth.jpg" medium="image">
+			<media:title type="html">snap-growth</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/fd3b857e7f0024396cdbd36c4c102a5d?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">joshsc</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/snapchat-geofilters-for-everywhere.png?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/instagram-stickers.png?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/snapchat-mllnnl-3.jpg?w=680" medium="image" />
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/snap-to-store.png?w=680" medium="image" />
+	</item>
+		<item>
+		<title>Sketchfab adds 3D sound to its 3D model sharing platform</title>
+		<link>https://techcrunch.com/2017/07/15/sketchfab-adds-3d-sound-to-its-its-3d-model-sharing-platform/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/15/sketchfab-adds-3d-sound-to-its-its-3d-model-sharing-platform/#respond</comments>
+		<pubDate>Sat, 15 Jul 2017 14:50:58 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+				<category><![CDATA[Developer]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Virtual Reality]]></category>
+		<category><![CDATA[sketchfab]]></category>
+		<category><![CDATA[VR]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515102</guid>
+		<description><![CDATA[<img width="680" height="380" src="https://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" />&nbsp;Sketchfab wants to become a sort of YouTube for 3D models and scenes. While the service started as a way to show off static 3D objects, the company has added a ton of interactive tools over time, making it a solid platform to preview virtual reality content.
+This week, Sketchfab added sound support. So if you have a VR headset at home, you can look at a scene in 3D using your headset with&#8230; <a href="https://techcrunch.com/2017/07/15/sketchfab-adds-3d-sound-to-its-its-3d-model-sharing-platform/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/15/sketchfab-adds-3d-sound-to-its-its-3d-model-sharing-platform/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg?w=210&#038;h=158&#038;crop=1" />
+<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg" type="image/jpeg" medium="image"><media:title type="html">Sketchfab%20adds%203D%20sound%20to%20its%203D%20model%20sharing%26nbsp%3Bplatform</media:title></media:content>
+		<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/lily-and-snout.jpg" medium="image">
+			<media:title type="html">lily-and-snout</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">romaindillet</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2017/07/screen-shot-2017-07-11-at-7-39-47-pm.png" medium="image" />
+	</item>
+		<item>
+		<title>Crunch Report &#124; Fastest Drone Ever World Record Set</title>
+		<link>https://techcrunch.com/2017/07/14/fastest-drone-ever-world-record-set/?ncid=rss</link>
+		<comments>https://techcrunch.com/2017/07/14/fastest-drone-ever-world-record-set/#respond</comments>
+		<pubDate>Sat, 15 Jul 2017 03:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Khaled &quot;Tito&quot; Hamze]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Speed]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[eth]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[tito hamze]]></category>
+		<category><![CDATA[fastest]]></category>
+		<category><![CDATA[crunch report]]></category>
+		<category><![CDATA[Phone]]></category>
+		<category><![CDATA[Disrupt]]></category>
+		<category><![CDATA[tito]]></category>
+		<category><![CDATA[Luxury]]></category>
+		<category><![CDATA[recap]]></category>
+		<category><![CDATA[heart]]></category>
+		<category><![CDATA[organ]]></category>
+		<category><![CDATA[TechCrunch]]></category>
+		<category><![CDATA[Silicon Valley]]></category>
+		<category><![CDATA[drone]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[3d print]]></category>
+		<category><![CDATA[Fast]]></category>
+		<category><![CDATA[hamze]]></category>
+		<category><![CDATA[Vertu]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Hands On]]></category>
+		<category><![CDATA[crunch]]></category>
+		<category><![CDATA[DEADPOOL]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1515012</guid>
+		<description><![CDATA[The world record for the fastest drone is set, an artificial heart is 3D printed and luxury phone maker Vertu shuts down. All this on Crunch Report. <a href="https://techcrunch.com/2017/07/14/fastest-drone-ever-world-record-set/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>https://techcrunch.com/2017/07/14/fastest-drone-ever-world-record-set/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:content url="http://img.vidible.tv/prod/2017-07/15/596958fb8c08e026ae16d2c4/596959cd2a30cb100c2e5920_o_U_v1.jpg?w=1279&#038;h=727" type="image/jpeg" medium="image"><media:title type="html">Crunch%20Report%20%7C%20Fastest%20Drone%20Ever%20World%20Record%26nbsp%3BSet</media:title></media:content>
+		<media:content url="http://2.gravatar.com/avatar/ebbd42535d88ec24fe14734e8abedc20?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">titohamze</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

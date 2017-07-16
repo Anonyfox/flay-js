@@ -5,8 +5,8 @@ import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import { join } from 'path'
 import { Twitter } from '../../../lib/dom/head/twitter'
 
-@suite(timeout(1000), slow(100))
-class TwitterTest {
+@suite(timeout(100), slow(10))
+class DomHeadTwitterTest {
   @test
   public worksWithDefaultHTML() {
     const input = `<html>

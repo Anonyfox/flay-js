@@ -6,6 +6,7 @@ import * as Readability from 'readabilitySAX'
 import * as striptags from 'striptags'
 import * as JsTeaser from 'teaser'
 import * as unescape from 'unescape'
+import { sanitize } from '../../text'
 
 export interface IBodyData {
   html?: string
@@ -36,8 +37,7 @@ export class Body {
   }
 
   private calculatePlainText() {
-    const text = AllHtmlEntities.decode(unescape(striptags(this.data.html)))
-    this.data.text = condense(text)
+    this.data.text = sanitize(this.data.html)
   }
 
   private calculateSummary() {

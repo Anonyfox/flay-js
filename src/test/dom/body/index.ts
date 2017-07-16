@@ -5,19 +5,22 @@ import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import { join } from 'path'
 import { Body } from '../../../lib/dom/body'
 
+const defaultInput = readFileSync('data/venturebeat.html', 'utf-8')
+
 @suite(timeout(1000), slow(200))
-class BodyTest {
+class DomBodyTest {
   @test
   public worksWithEasyHTML() {
-    const input = readFileSync('data/venturebeat.html', 'utf-8')
-    const body = new Body(input).toJSON()
+    const body = new Body(defaultInput).toJSON()
     const title =
       'How Google, Amazon, and Facebook would look if they had started in the age of AI'
-    const keywords = ['facebook', 'amazon', 'google', 'knowledge network', 'ai']
     expect(body.title).to.be.equal(title)
+
+    const keywords = ['facebook', 'amazon', 'google', 'knowledge network', 'ai']
+    expect(body.keywords).to.include.members(keywords)
+
     expect(body.html).be.a('string')
     expect(body.text).be.a('string')
     expect(body.description).be.a('string')
-    expect(body.keywords).to.include.members(keywords)
   }
 }

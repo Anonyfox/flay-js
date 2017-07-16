@@ -5,11 +5,8 @@ import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import { join } from 'path'
 import { Head } from '../../../lib/dom/head'
 
-@suite(timeout(1000), slow(100))
-class HeadTest {
-  @test
-  public worksWithDefaultHTML() {
-    const input = `<html>
+// DOM parsing itself should not be within tight test timings
+const defaultInput = cheerio.load(`<html>
       <head>
         <title>Meta Title</title>
 
@@ -31,8 +28,13 @@ class HeadTest {
         <meta name="twitter:creator" content="Twitter Author">
       </head>
       <body></body>
-    </html>`
-    const head = new Head(cheerio.load(input)).toJSON()
+    </html>`)
+
+@suite(timeout(100), slow(10))
+class DomHeadTest {
+  @test
+  public worksWithDefaultHTML() {
+    const head = new Head(defaultInput).toJSON()
     expect(head.title).to.be.equal('OGP Title')
     expect(head.description).to.be.equal('OGP Description')
     expect(head.image).to.be.equal('OGP Image')

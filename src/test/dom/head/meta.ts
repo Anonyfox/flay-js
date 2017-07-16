@@ -5,8 +5,8 @@ import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import { join } from 'path'
 import { Meta } from '../../../lib/dom/head/meta'
 
-@suite(timeout(1000), slow(100))
-class MetaTest {
+@suite(timeout(100), slow(10))
+class DomHeadMetaTest {
   @test
   public worksWithDefaultHTML() {
     const input = `<html>

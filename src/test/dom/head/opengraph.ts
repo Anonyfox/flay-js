@@ -5,8 +5,8 @@ import { skip, slow, suite, test, timeout } from 'mocha-typescript'
 import { join } from 'path'
 import { Opengraph } from '../../../lib/dom/head/opengraph'
 
-@suite(timeout(1000), slow(100))
-class OpengraphTest {
+@suite(timeout(100), slow(10))
+class DomHeadOpengraphTest {
   @test
   public worksWithDefaultHTML() {
     const input = `<html>
