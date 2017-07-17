@@ -22,6 +22,12 @@ A pure JS implementation of the Rapid Automated Keyword Extraction (RAKE) algori
 This algorithm can parse both, websites and RSS/Atom feeds, and return
 structured data as good as possible.
 
+## ToDo
+
+- more exhaustive documentation
+- proper date handling
+- browserify
+
 ## LICENSE:
 
 LGPL-3.0.
