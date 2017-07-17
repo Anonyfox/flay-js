@@ -1,8 +1,6 @@
-import rake from 'rake-js'
+export { parseFeed as feed } from './feed'
+import { IWebsiteData, Website } from './dom'
 
-export async function website(html: string): Promise<any> {
-  const keywords = rake('this is a hello world sample text. hello.')
-  // tslint:disable-next-line
-  // console.log('keywords: ', keywords)
-  return 'test'
+export function website(html: string): IWebsiteData {
+  return new Website(html).toJSON()
 }
