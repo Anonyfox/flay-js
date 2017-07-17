@@ -9,13 +9,13 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const chai_1 = require("chai");
 const mocha_typescript_1 = require("mocha-typescript");
 const index_1 = require("../lib/index");
-let Scrape = class Scrape {
-    scrapeWorksWithSimpleHTML() {
+let Flay = class Flay {
+    flayWorksWithSimpleHTML() {
         const input = `<html><head><title>TestHTML</title></head></html>`;
         const result = index_1.website(input);
         chai_1.expect(result.title).to.be.equal('TestHTML');
     }
-    scrapeWorksWithSimpleFeed() {
+    flayWorksWithSimpleFeed() {
         const input = `<?xml version="1.0" encoding="UTF-8" ?>
       <rss version="2.0">
         <channel>
@@ -28,11 +28,11 @@ let Scrape = class Scrape {
 };
 __decorate([
     mocha_typescript_1.test
-], Scrape.prototype, "scrapeWorksWithSimpleHTML", null);
+], Flay.prototype, "flayWorksWithSimpleHTML", null);
 __decorate([
     mocha_typescript_1.test
-], Scrape.prototype, "scrapeWorksWithSimpleFeed", null);
-Scrape = __decorate([
+], Flay.prototype, "flayWorksWithSimpleFeed", null);
+Flay = __decorate([
     mocha_typescript_1.suite(mocha_typescript_1.timeout(1000), mocha_typescript_1.slow(100))
-], Scrape);
+], Flay);
 //# sourceMappingURL=index.js.map

@@ -5,9 +5,9 @@ import { join } from 'path'
 import { feed, website } from '../lib/index'
 
 @suite(timeout(1000), slow(100))
-class Scrape {
+class Flay {
   @test
-  public scrapeWorksWithSimpleHTML() {
+  public flayWorksWithSimpleHTML() {
     const input = `<html><head><title>TestHTML</title></head></html>`
     const result = website(input)
     // tslint:disable-next-line
@@ -16,7 +16,7 @@ class Scrape {
   }
 
   @test
-  public scrapeWorksWithSimpleFeed() {
+  public flayWorksWithSimpleFeed() {
     const input = `<?xml version="1.0" encoding="UTF-8" ?>
       <rss version="2.0">
         <channel>
