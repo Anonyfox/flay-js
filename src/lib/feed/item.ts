@@ -37,7 +37,11 @@ function findImage($: CheerioStatic): string {
   } else {
     const str = $('media\\:content, content\\:encoded, content').html()
     if (str) {
-      return str.match(/\ssrc=["']*(([^'"\s]+)\.(jpe?g)|(png))["'\s]/)[1]
+      try {
+        return str.match(/\ssrc=["']*(([^'"\s]+)\.(jpe?g)|(png))["'\s]/)[1]
+      } catch (e) {
+        return ''
+      }
     } else {
       return ''
     }

@@ -1,6 +1,6 @@
 {
   "name": "flay-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extract structured content from any HTML website",
   "main": "dist/lib/index.js",
   "scripts": {
